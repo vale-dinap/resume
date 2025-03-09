@@ -21,8 +21,8 @@ import {Strings} from "@openzeppelin/contracts/utils/Strings.sol";
 /**
  * @title VDN
  * @author Valerio Di Napoli
- * @notice ERC721 contract for storing resume and other personal files
- * as NFTs
+ * @notice ERC721 contract for storing resume and other professional
+ * files as NFTs
  * @dev Implements: IERC721, IERC165. Inherits: Ownable.
  * @custom:security-contact vdn.directive894@passfwd.com
  * @custom:version 1.0.0
